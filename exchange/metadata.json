@@ -1,0 +1,34 @@
+{
+  "author": "Martez Reed",
+  "checksums": {
+    "manifests\\init.pp": "1eff8e251d6cd49fdebc36d904b2e2ea",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests\\filterpack.pp": "53b356847140b53c9e68bd45ac3290ef",
+    "manifests\\officepack.pp": "f02f8b333333d08107b4a41149db3ad9",
+    "manifests\\ucmaruntime.pp": "53b356847140b53c9e68bd45ac3290ef",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "Modulefile": "76d40a90b63fc2fd6d00dbdbfeedbca4",
+    "manifests\\dotnet.pp": "53b356847140b53c9e68bd45ac3290ef",
+    "README.markdown": "fc8de98ce8513d99ad6685d7ddf39337",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "manifests\\init - Copy.pp": "b425b41a5b9c1c29a1b4720e4c405e20",
+    "tests\\init.pp": "7b1b28531dc081fcaf1120b845d55ce3",
+    "manifests\\exchange.pp": "53b356847140b53c9e68bd45ac3290ef",
+    "manifests\\param.pp": "febb374df2e1292faf210fc8e4672b25",
+    "README.md": "7f39955cdffb67aac3751b3339942cb8"
+  },
+  "dependencies": [
+    {
+      "name": "SaizMaddali/puppet",
+      "version_requirement": "0.1.0"
+    }
+  ],
+  "description": "Puppet module to install Citrix Xendesktop 7",
+  "license": "",
+  "name": "martezr-exchange2013",
+  "project_page": "",
+  "source": "",
+  "summary": "Puppet module to install Citrix Xendesktop 7",
+  "types": [],
+  "version": "0.1.0"
+}
